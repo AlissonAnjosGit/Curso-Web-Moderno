@@ -1,4 +1,13 @@
-# most-used-words
+# Aplicação Most Used Words (palavras mais utilizadas)
+
+## Descrição:
+Este projeto é uma aplicação Desktop que oferece ao usuário a possibilidade de descobrir quantas vezes determinada palavra é encontrada em um arquivo de legenda (.srt)
+
+## Frameworks utilizados:
+- [Vue.js](https://vuejs.org/)
+- [Electron.js](https://www.electronjs.org/)
+
+![most-used-words](https://github.com/AlissonAnjosGit/Assets/blob/main/most-used-words/most-used-words.png)
 
 ## Project setup
 ```
