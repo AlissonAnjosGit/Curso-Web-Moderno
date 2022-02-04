@@ -1,6 +1,6 @@
 # Relatório de vendas
 ## Descrição:
-Esta aplicação web utiliza um arquivo .json de vendas registradas e gera para o usuário uma tabela com cada venda, também gera uma tabela com o total vendido de cada produto.
+Esta aplicação web utiliza os dados armazenados em um arquivo .json de vendas registradas e gera para o usuário uma tabela com cada venda, também gera uma tabela com o total vendido de cada produto.
 
 ## Framework utilizado :
 - [Vue.js](https://vuejs.org/)
