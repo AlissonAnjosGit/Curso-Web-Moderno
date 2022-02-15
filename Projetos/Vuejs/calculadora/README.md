@@ -3,9 +3,9 @@
 ## Descrição:
 Este projeto é uma aplicação web que oferece ao usuário as funcionalidades de uma calculadora virtual
 
-## Frameworks utilizados:
+## Framework utilizado:
 - [Vue.js](https://vuejs.org/)
-
+##
 ![calculadora-vue](https://github.com/AlissonAnjosGit/Assets/blob/main/calculadora-vue/calculadora-vue.png)
 ## Project setup
 ```
